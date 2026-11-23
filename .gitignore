@@ -1,0 +1,33 @@
+# Unreal Engine generated folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE / project files (regenerate with "Generate Visual Studio project files")
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+*.pdb
+*.xcworkspace
+*.xcodeproj
+
+# Built map data
+*_BuiltData.uasset
+
+# Third-party Fab / Marketplace assets (licensed, not redistributable; see README)
+Content/Fab/
+Content/Stylized_Roof/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
