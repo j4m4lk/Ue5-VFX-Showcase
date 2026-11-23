@@ -10,9 +10,10 @@ voice-reactive visualizer and a real solar time-of-day system.
 
 ## Video
 
-<!-- To get an inline player: edit this README on github.com, delete this comment and the link below,
-     and drag docs/media/showcase.mp4 into the editor. GitHub turns it into an embedded video. -->
-▶️ **[Watch the full showcase (≈1.5 min)](docs/media/showcase.mp4)**
+
+
+https://github.com/user-attachments/assets/20958b2d-384f-4e70-88f7-10eb9cd215a5
+
 
 ## Screenshots
 
